@@ -1,0 +1,45 @@
+{
+    "common":
+    [
+        {
+            "concurrentjobs":"5"
+        }
+    ],
+    
+    "dirs":
+        [
+            {
+            "dir": "C:/temp/test-logfiles1",
+            "pattern": ".log",
+            "age": "1"
+            },
+
+            {
+            "dir": "C:/temp/test-logfiles2",
+            "pattern": ".log",
+            "age": "1"
+            },
+
+            {
+            "dir": "C:/temp/test-logfiles3",
+            "pattern": ".log",
+            "age": "1"
+            },
+
+            {
+            "dir": "C:/temp/test-logfiles4",
+            "pattern": ".log",
+            "age": "1"
+            },
+            {
+            "dir": "C:/temp/test-logfiles5",
+            "pattern": ".log",
+            "age": "1"
+            },            
+            {
+            "dir": "C:/temp/test-logfiles6",
+            "pattern": ".log",
+            "age": "1"
+            }
+        ]
+}
